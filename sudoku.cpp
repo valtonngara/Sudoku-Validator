@@ -119,7 +119,7 @@ int  csv_to_2d_array(char *av)
 {
     if (av == NULL) {
         cout << "This argument is invalid!" << endl;
-         exit(0);
+        exit(0);
     }
 
    string file = av;
