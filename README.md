@@ -1,4 +1,4 @@
-# Sudoku-Validator
+# Sudoku Validator
 
 
 ### This program is built with C++ language.
